@@ -3,7 +3,7 @@
 
 #  Hello there! 👋
 
-<a href="">
+<a href="https://github.com/patrickhart">
   <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/patrick-hart-en/">
