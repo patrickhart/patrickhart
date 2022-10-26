@@ -14,8 +14,8 @@
 </a>
 </br></br>
 
-I'm a researcher at fortiss and Ph.D. student in computer science at the Technical University of Munich 🎓 <br />
-I focus on artificial intelligence and autonomous driving 🚗 <br />
+I'm a senior software engineer in the motion planning team at Argo AI. 🎓 <br />
+I focus on motion planning and artificial intelligence and autonomous driving 🚗 <br />
 Python <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> and C++ <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> enthusiast <br />
 
 
